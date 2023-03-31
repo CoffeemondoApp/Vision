@@ -1,0 +1,7 @@
+opencv-python
+tflite-support
+gspread
+google-api-python-client
+firebase-admin
+protobuf==3.20
+
